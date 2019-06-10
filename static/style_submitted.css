@@ -1,0 +1,13 @@
+.card_box{
+    margin-top: 50px;
+}
+.back_btn{
+    background-color: #76a5af;
+    border: black;
+    box-shadow: 3px 3px black;
+    float: right;
+    border-style: solid;
+}
+.header{
+    border-bottom: 5px solid black;
+}

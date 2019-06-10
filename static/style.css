@@ -1,0 +1,13 @@
+.container{
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+}
+.submit_btn{
+    background-color: #76a5af;
+    border: black;
+    box-shadow: 3px 3px black;
+    float: right;
+    border-style: solid;
+}
